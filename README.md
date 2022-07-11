@@ -1,7 +1,13 @@
 # contraceptive_care
+
+### Objective <br>
+As access to contraceptive care has significantly dimineshed throughout the years, how estimates changes in how women adapt to get basic care. Specifically, as contraceptive care clinics are closed in many counties in Texas, what are the new catchment regions where women come from to clinics that are still open.
+
+We look at two time periods: 2010 and 2015.
+
 ### Process
-1. Collect geo-data
-2. Calculate county centroid data
+1. Collect geo-data, which defines the county boundary coordinates.
+2. Calculate each county's centroid
 3. Clean up data frame with country centroid detail<br>
 
 **Load clinic Data**<br>
