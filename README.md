@@ -22,7 +22,7 @@ We look at two time periods: 2010 and 2015.
 **Estimate New Female Popultion with Catchment included**<br>
 
 8. Create 2 columns per time peried
-    * catchment area female pupulation that includes only catchment counties
+    * catchment area female population that includes only catchment counties
     * 'new' total that includes catchment plus a counties own population
 
 
